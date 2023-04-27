@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ajinkya-dande-git
-- [In] Currently working as a Software Engineer at LinkedIn
+- [in] Currently working as a Software Engineer at LinkedIn
 - 👀 I’m interested in Software Engineering, Systems Infrastructure, Distributed Systems, and Handeling data at Scale
 - 📫 How to reach me LinkedIn - linkedin.com/in/ajinkyadande, Insta - @ajinkya.dande77
 
